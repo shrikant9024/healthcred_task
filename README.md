@@ -34,5 +34,5 @@ This project is a react based dashboard that visualises data fetched form an API
 
 ### Usage
 
-- The app is working on url - localhost:5173
+- The app is working on url - http://localhost:5173
 
